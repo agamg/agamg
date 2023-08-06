@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Agam Gupta
 
+- 🧑🏽‍🎓 Electrical Engineering and Computer Science + data science student at UC Berkeley
+- 📫 Reach me: agam_1501@berkeley.edu
 <!--
 **agamg/agamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
